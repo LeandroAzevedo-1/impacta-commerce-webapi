@@ -11,7 +11,7 @@ def hello_word():
 def products():
     response = jsonify([
         {
-           "title": "Caneca Personalizada de Porcelana do Backend",
+           "title": "Caneca Personalizada de Porcelana do Backend 123",
            "amount": 123.45,
            "installments": { "number": 3, "total": 41.15, "hasFee": True}
        },
